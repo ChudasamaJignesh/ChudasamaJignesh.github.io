@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/jignesh_81726
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://chudasamajignesh.github.io
+  * I am jignesh_81726 (https://keybase.io/jignesh_81726) on keybase.
+  * I have a public key with fingerprint 568D 742A 8CF8 E5A0 71E2  2946 E8F9 9761 A67C EE98
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101cf9de89274b27af7e85912d4a610a60b4bfe2a6deef7c095517c82f36946074a0a",
+            "fingerprint": "568d742a8cf8e5a071e22946e8f99761a67cee98",
+            "host": "keybase.io",
+            "key_id": "e8f99761a67cee98",
+            "kid": "0101cf9de89274b27af7e85912d4a610a60b4bfe2a6deef7c095517c82f36946074a0a",
+            "uid": "f493e1f1a0e2804b3bfce8c9cb5cd419",
+            "username": "jignesh_81726"
+        },
+        "revoke": {
+            "sig_ids": [
+                "470fde68702a7b8fc46922bd898af988aa9bf3889c6ad903d4a0689d5b19fe2f0f"
+            ]
+        },
+        "service": {
+            "hostname": "chudasamajignesh.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1499887164,
+    "expire_in": 157680000,
+    "prev": "b49896ec5e003788a4674dc7d6070fb6e4384a0fcd4e84c65ff8e44b575af13c",
+    "seqno": 19,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.72
+Comment: https://keybase.io/crypto
+
+yMJ7AnicrZJraFxFFMc3qdp01VKKVKQieqnUlG0yc3fuPBaFgn4woAVDVewj6zzO
+7N4m2bveu7u1j7RoxKhUTMUWa0G0VbCFgihI+yWxSShKq1QrKkkwQRQs2qRpKCg+
+cG6M3/zo/TLc4X/+53f+c8ZuXpLJNp1r/ubumdbqvqZzI0vrmSds497dnorMTq+w
+2+uGhQN6DCS1YndovIKHMMLaCgNc+Iwon0nLgAcC+4ZIipGkSBFlwZfUAFimkQgC
+zDT3bZ4KQhEjEkkv59mwUoK4GoeVmrMNKDeM+JJryyGQiGHwfScHboVgFEvKNIDg
+rrAcJWmFg1MygbYwcnfup7iA9x/6/5m7vmBnicgDtlgi8DkiKq+sBq6FVoE2BItU
+mEBckb3g1NvDUgWScpFj5lOvL+fF0Ii6IQ03CUuOPPEKWzzCkDVAOUO+ZIpbTajw
+fWW44NIKzqUUyuY5F5pKI1DegSPKhQkUFg7cIuttc96ubSPUC+ZpVIsIulw3MpG9
+cpGlrRTWynX1T3zVOKpFOupxunKtVk0KKWNtZzUt3AGquGhZVGHFuGdzFQ2IkzCq
+eAXslLoWpj0wEY6SYUpyHjxdDWMohqkiYJQj96V9oOEsFRFcUNABIJRnbjBCGTGa
+GZcysooCyXM3m3VJAieaBtYtBSEqYIG0OK+9dMinKpHzFo5Tlpyny7Eia/UYvL6R
+j7del2nKZm64vjnd50x22Yp/t3zVwNK/7jv1+9CXhatrbE8/PtDR3/hkffbo2k33
+DE8c2Px8yy/bcl1zF068PPHF9Ozpl07Wt352ufz4I/OvjV1p3nj26p637pcBNFqu
+DfRNzeW+TQZ/6nqjfbbzMrz+GPTGXTOXxobaxx9cLa89uunFZ81ND+0dLN+yfODr
+Xdk7b7xydMevyztu+1NcfGHygXG/88Loq6MdT648ac5/dRdu7/zw52O7ijPDG9eg
+ZeNtfT/+MXR4wx2nD47fOvX9pa7586+MXHz3eDDd8s4h8Vv/kfkP3nt4dNIcyenh
+H1rjY8P735z7dExumV7SvuL22Wp0cN2Z1Rv2tW7fM/HcibcPHX7/mclVazd/fmpw
+75S3/7vsR81/AxIwaew=
+=VpPA
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jignesh_81726
+
+==================================================================
